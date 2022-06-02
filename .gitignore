@@ -1,0 +1,50 @@
+# Common
+node_modules
+.sass-cache
+*.swp
+*.db
+._*
+
+# Mac
+.Spotlight-V100
+.DS_Store
+.Trashes
+
+# Windows
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.stackdump
+*.lnk
+
+# Design
+*.psd
+*.ai
+*.sketch
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# VS Code Local History
+.history
+
+# Firebase
+firebase-debug.log*
+.firebase
