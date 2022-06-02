@@ -143,6 +143,7 @@ exports.watch = watch;
 exports.browserInit = browserInit;
 exports.minJS = minJS;
 exports.compressImg = compressImg;
+exports.update = update;
 
 exports.watch = gulp.parallel(browserInit, watch);
 
